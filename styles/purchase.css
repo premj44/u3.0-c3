@@ -1,0 +1,13 @@
+#nav{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 35px;
+
+}
+
+#purchased_vouchers{
+   width: 400px;
+    text-align: center;
+    border: 1px solid;
+    padding: 15px 5px;
+}
